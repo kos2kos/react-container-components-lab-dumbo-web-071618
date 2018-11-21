@@ -33,4 +33,4 @@ class LatestMovieReviewsContainer extends  Component  {
 
 // Code LatestMovieReviewsContainer Here
 
-extends default LatestMovieReviewsContainer
+export default LatestMovieReviewsContainer

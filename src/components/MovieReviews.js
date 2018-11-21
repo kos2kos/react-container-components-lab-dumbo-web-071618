@@ -1,4 +1,4 @@
-import React, from 'react'
+import React from 'react'
 // Code MovieReviews Here
 
 const MovieReview = (props) => {
